@@ -1,0 +1,48 @@
+@import '../abstracts/variaveis';
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909'); 
+
+@media (min-width: 940px) and (max-width: 1368px){}
+@media (max-width: 481px){
+
+    body {
+        display: flex;
+        flex-direction: column;
+    #home-screen-one {
+        margin-top: -8rem;
+        margin-left: -3rem;
+    }
+    #home-screen-list {                   
+        .home-screen-list {
+            align-self: flex-start;
+            margin-left: 1rem;                
+        }       
+    }
+    #home-screen-recommended {
+        .recommended-list-ul {
+            margin-left: 5rem;
+        }
+
+    }
+    .recommended-list-li {
+        :first-child {
+            width: 20px;  
+            position: relative;
+            bottom: -2rem;
+            left: 4rem;             
+       }
+
+    }
+}
+.home-list-plates-li {
+    :first-child {
+        width: 20px;
+        display: block;   
+        position: relative;
+        top: 0rem;
+        left: -4rem;
+   }
+
+}
+}
+@media(max-width: 281px){}
+@media (min-width: 483px) and (max-width: 939px){}

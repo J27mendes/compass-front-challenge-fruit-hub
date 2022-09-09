@@ -1,0 +1,66 @@
+@import '../abstracts/variaveis';
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.image-welcome {
+    margin-top: -4rem;
+    .image-welcome-basket-clip-fruit{
+        width: 45vh;
+    }
+    .authentication-p-top {
+        margin: -0.6rem;
+        border: 12px solid $color-four;
+        clip-path: ellipse(60% 30%);
+        position: relative;
+        left: 7.9rem;
+        bottom: -0.7rem;
+    }
+    .authentication-p-bottom-left {
+        margin: -0.6rem;
+        border: 12px solid $color-four;
+        clip-path: ellipse(60% 30%);
+        position: relative;
+        left: 5.6rem;
+        bottom: 2.7rem;    
+    }
+    .authentication-p-bottom-right {
+        margin: -0.6rem;
+        border: 12px solid $color-four;
+        clip-path: ellipse(60% 20%);
+        position: relative;
+        left: -7.5rem;
+        bottom: 3rem;  
+    }
+}
+h2 {
+    font-size: calc($sizes / 4);
+    color: $color-three;
+    font-family: 'TT Norms Pro', cursive;
+    font-weight: 400;
+}
+.welcome-input {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 1rem 1.5rem;
+    background: $color-five;
+    border: solid 1px $color-five;
+    border-radius: 13px 13px;
+    width: calc($sizes * 4.2);
+    color: #c2bdbde6;
+    font-family: 'TT Norms Pro', cursive;
+    font-size: calc($sizes / 3);
+}
+input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+
+
+
+
+

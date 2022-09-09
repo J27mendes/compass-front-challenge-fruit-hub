@@ -1,0 +1,175 @@
+@import '../abstracts/variaveis';
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909');
+
+
+@media (min-width: 483px) and (max-width: 939px){
+    #page-welcome {
+        .image-welcome{
+            .image-welcome-fruit {
+                width: calc($sizes / 2);
+                position: relative;
+                bottom: 0.1rem;
+                left: 6rem;
+            }
+            .authentication-p-top {
+                margin: -0.7rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: 5.5rem;
+                bottom: -0.7rem;
+            }
+            .image-welcome-basket-clip-fruit {
+                width: 200px;
+            } 
+            .authentication-p-bottom-left {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: 4rem;
+                bottom: 2.7rem;  
+            }
+            .authentication-p-bottom-right {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: -5rem;
+                bottom: 3rem;  
+
+            }
+
+        }
+    }
+#page-welcome-text {
+        margin-top: 0rem;
+        align-items: center;
+        h2 {
+            font-size: calc($sizes / 4.5);           
+        }
+        input {
+            width: calc($sizes * 3.8);
+            font-size: calc($sizes / 4);
+        }
+        .page-welcome-button {
+            width: calc($sizes * 3.8);
+        }
+    }
+}
+
+@media (max-width: 481px){
+#page-welcome {
+        .image-welcome{
+            .image-welcome-fruit {
+                width: calc($sizes / 2);
+                position: relative;
+                bottom: 0.1rem;
+                left: 6rem;
+            }
+            .authentication-p-top {
+                margin: -0.7rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: 5.5rem;
+                bottom: -0.7rem;
+            }
+            .image-welcome-basket-clip-fruit {
+                max-width: 200px;
+            } 
+            .authentication-p-bottom-left {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: 4rem;
+                bottom: 2.7rem;  
+            }
+            .authentication-p-bottom-right {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(40% 20%);
+                position: relative;
+                left: -5rem;
+                bottom: 3rem;  
+
+            }
+        }
+    }
+#page-welcome-text {
+        margin-top: 0rem;
+        align-items: flex-start;
+        h2 {
+            font-size: calc($sizes / 4.5);           
+        }
+        input {
+            width: calc($sizes * 3.8);
+            font-size: calc($sizes / 4);
+        }
+        .page-welcome-button {
+            width: calc($sizes * 3.8);
+        }
+    }
+}
+
+@media(max-width: 281px){
+    #page-welcome {
+        .image-welcome{
+            .image-welcome-fruit {
+                width: calc($sizes / 2);
+                position: relative;
+                bottom: 0.1rem;
+                left: 6rem;
+            }
+            .authentication-p-top {
+                margin: -0.7rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(30% 15%);
+                position: relative;
+                left: 4.2rem;
+                bottom: -0.7rem;
+            }
+            .image-welcome-basket-clip-fruit {
+                max-width: 200px;
+            } 
+            .center {
+                width: calc($sizes * 2.3);
+            }
+            .authentication-p-bottom-left {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(30% 15%);
+                position: relative;
+                left: 3rem;
+                bottom: 2.7rem;  
+            }
+            .authentication-p-bottom-right {
+                margin: -0.6rem;
+                border: 12px solid $color-four;
+                clip-path: ellipse(30% 15%);
+                position: relative;
+                left: -3.5rem;
+                bottom: 3rem;  
+
+            }
+
+        }
+    }
+#page-welcome-text {
+        margin-top: -1rem;
+        align-items: center;
+        h2 {
+            font-size: calc($sizes / 6);           
+        }
+        input {
+            width: calc($sizes * 2.8);
+            margin-bottom: -0.5rem;
+            font-size: calc($sizes / 4.5);
+        }
+        .page-welcome-button {
+            width: calc($sizes * 2.8);
+        }
+    }
+}
+    

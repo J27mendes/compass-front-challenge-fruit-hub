@@ -1,0 +1,31 @@
+@import '../abstracts/variaveis';
+
+section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    padding-top: calc($sizes * 2.5);
+    img {
+        width: 20vh;
+    }
+    .button {
+        background: $color-one;
+        border-style: none;
+        justify-content: center;
+        border-radius: 16px 0 16px 0; 
+        padding-top: 0;
+        padding-bottom: 3rem;
+        font-weight: 400;
+        font-size: calc($sizes / 3.2);
+        width: calc($sizes * 2.5);
+        height: calc($sizes / 1.6);
+
+        a{
+            text-decoration: none;
+            font-family: 'Bad Script', cursive;           
+            background: $color-one;
+            color: $color-two;           
+        }       
+    }
+}

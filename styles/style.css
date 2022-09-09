@@ -1,0 +1,1090 @@
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+@import url("https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909");
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  padding-top: 12.5rem;
+}
+section img {
+  width: 20vh;
+}
+section .button {
+  background: #FFA451;
+  border-style: none;
+  justify-content: center;
+  border-radius: 16px 0 16px 0;
+  padding-top: 0;
+  padding-bottom: 3rem;
+  font-weight: 400;
+  font-size: 1.5625rem;
+  width: 12.5rem;
+  height: 3.125rem;
+}
+section .button a {
+  text-decoration: none;
+  font-family: "Bad Script", cursive;
+  background: #FFA451;
+  color: #ffffff;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#page-welcome {
+  background: #FFA451;
+}
+#page-welcome div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: #FFA451;
+  align-items: center;
+}
+#page-welcome div .image-welcome-fruit {
+  width: 3.5714285714rem;
+  position: relative;
+  bottom: 1rem;
+  left: 7rem;
+}
+#page-welcome div .image-welcome-basket-fruit {
+  width: 40vh;
+}
+#page-welcome div .center {
+  width: 18rem;
+  margin-top: 0%;
+  border: 12px solid #F08626;
+  shape-outside: ellipse(50% 25%);
+  -webkit-clip-path: ellipse(50% 25%);
+          clip-path: ellipse(50% 25%);
+  margin-bottom: 2rem;
+}
+
+#page-welcome-text {
+  margin: 0%;
+  padding: 2.7777777778rem;
+  background: #ffffff;
+}
+#page-welcome-text h1 {
+  font-family: "TT Norms Pro", cursive;
+  margin: 0%;
+  padding-bottom: 1.25rem;
+  color: #27214D;
+}
+#page-welcome-text .page-welcome-p {
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+#page-welcome-text button {
+  margin-top: 3rem;
+  padding: 1.1rem 0;
+  background: #FFA451;
+  border: solid 2px #FFA451;
+  border-radius: 13px 13px;
+  width: 21rem;
+}
+#page-welcome-text button a {
+  font-size: 1rem;
+  text-decoration: none;
+  background: #FFA451;
+  color: #ffffff;
+  font-family: "TT Norms Pro", cursive;
+  font-weight: 250;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.image-welcome {
+  margin-top: -4rem;
+}
+.image-welcome .image-welcome-basket-clip-fruit {
+  width: 45vh;
+}
+.image-welcome .authentication-p-top {
+  margin: -0.6rem;
+  border: 12px solid #F08626;
+  -webkit-clip-path: ellipse(60% 30%);
+          clip-path: ellipse(60% 30%);
+  position: relative;
+  left: 7.9rem;
+  bottom: -0.7rem;
+}
+.image-welcome .authentication-p-bottom-left {
+  margin: -0.6rem;
+  border: 12px solid #F08626;
+  -webkit-clip-path: ellipse(60% 30%);
+          clip-path: ellipse(60% 30%);
+  position: relative;
+  left: 5.6rem;
+  bottom: 2.7rem;
+}
+.image-welcome .authentication-p-bottom-right {
+  margin: -0.6rem;
+  border: 12px solid #F08626;
+  -webkit-clip-path: ellipse(60% 20%);
+          clip-path: ellipse(60% 20%);
+  position: relative;
+  left: -7.5rem;
+  bottom: 3rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  color: #27214D;
+  font-family: "TT Norms Pro", cursive;
+  font-weight: 400;
+}
+
+.welcome-input {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding: 1rem 1.5rem;
+  background: #F7F5F5;
+  border: solid 1px #F7F5F5;
+  border-radius: 13px 13px;
+  width: 21rem;
+  color: rgba(194, 189, 189, 0.9019607843);
+  font-family: "TT Norms Pro", cursive;
+  font-size: 1.6666666667rem;
+}
+
+input:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#home-screen-one {
+  margin-top: -3rem;
+  margin-left: -3rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+#home-screen-one .vector {
+  margin-left: 0%;
+  justify-content: center;
+  width: 0.25rem;
+  margin-right: 3rem;
+}
+#home-screen-one .vector .vector-1 {
+  width: 1.7857142857rem;
+  margin-bottom: -0.8rem;
+}
+#home-screen-one .vector .vector-2 {
+  margin-top: -2rem;
+  width: 1rem;
+}
+#home-screen-one .home-screen-one-p {
+  font-size: 1rem;
+  color: #27214D;
+  font-family: "TT Norms Pro", cursive;
+  font-weight: 300;
+}
+#home-screen-one .page-home-icone {
+  position: relative;
+  left: 7rem;
+  bottom: 0rem;
+  width: 100%;
+  border: solid 1px #dfdede;
+  border-radius: 65% 65%;
+}
+
+#home-screen-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: -9rem;
+  margin-left: 0.2rem;
+  width: 100%;
+}
+#home-screen-search .search {
+  background: #F7F5F5;
+  border: solid 1px #F7F5F5;
+  border-radius: 15px 15px;
+  color: rgba(228, 225, 225, 0.9019607843);
+}
+#home-screen-search .search .search-image {
+  width: 20px;
+  height: 20px;
+  margin: 1.5rem;
+}
+#home-screen-search .search .home-screen-one-input {
+  border-style: none;
+  width: 11.5rem;
+  background: #F7F5F5;
+  margin-right: 2rem;
+  color: rgba(228, 225, 225, 0.9019607843);
+  font-size: 0.8333333333rem;
+  position: relative;
+  bottom: 1.7rem;
+  left: -0.5rem;
+  font-weight: 300;
+}
+#home-screen-search .search .home-screen-one-input::-moz-placeholder {
+  color: rgba(228, 225, 225, 0.9019607843);
+}
+#home-screen-search .search .home-screen-one-input:-ms-input-placeholder {
+  color: rgba(228, 225, 225, 0.9019607843);
+}
+#home-screen-search .search .home-screen-one-input::placeholder {
+  color: rgba(228, 225, 225, 0.9019607843);
+}
+#home-screen-search .search-image-left-right {
+  display: block;
+  background: #F7F5F5;
+  margin-left: 0.2rem;
+  border: solid 6px #F7F5F5;
+  border-radius: 12px;
+  padding: 0.8rem 0.1rem;
+}
+#home-screen-search .search-image-left-right .search-left-right {
+  margin-left: 0rem;
+  background: #F7F5F5;
+  border: solid 2px #F7F5F5;
+  border-radius: 10px 10px 0 0;
+}
+#home-screen-search .search-image-left-right .search-left-right .search-image-elipse {
+  background-color: #F7F5F5;
+  align-self: center;
+  width: 8px;
+  height: 8px;
+}
+#home-screen-search .search-image-left-right .search-left-right .search-image-line {
+  background-color: #F7F5F5;
+  align-self: center;
+  width: 12px;
+  height: 2px;
+  margin-bottom: 0.2rem;
+}
+#home-screen-search .search-image-left-right .search-right-left {
+  margin-top: -0.7rem;
+  margin-left: 0rem;
+  background: #F7F5F5;
+  border: solid 2px #F7F5F5;
+  border-radius: 0 0 10px 10px;
+}
+#home-screen-search .search-image-left-right .search-right-left .search-image-elipse {
+  background-color: #F7F5F5;
+  align-self: center;
+  width: 8px;
+  height: 8px;
+}
+#home-screen-search .search-image-left-right .search-right-left .search-image-line {
+  background-color: #F7F5F5;
+  align-self: center;
+  width: 12px;
+  height: 2px;
+  margin-bottom: 0.2rem;
+}
+
+#home-screen-list {
+  margin-top: -12.5rem;
+  justify-content: flex-start;
+}
+#home-screen-list .home-screen-list {
+  /*text-align: center;
+  /*display: flex;
+  flex-wrap: nowrap;*/
+  list-style: none;
+  padding: 0.2rem 0rem;
+  background: linear-gradient(0.4turn, #ffffff, #F7F5F5, #ffffff);
+  justify-content: center;
+}
+#home-screen-list .home-screen-list .swiper-slide {
+  width: 50%;
+  /*.swiper-button-prev,
+  .swiper-button-next {
+      display: none;
+  }
+  .swiper-pagination {
+      position: initial;
+      margin: 0.5em 0;
+  }*/
+}
+#home-screen-list .home-screen-list .swiper-slide .list {
+  margin-left: 0.5rem;
+  padding: 0.5rem 1.2rem;
+  border: 0.5px 0 0.5rem 0 solid rgba(228, 225, 225, 0.9019607843);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0px 1px 1px rgba(228, 225, 225, 0.9019607843);
+  font-family: "TT Norms Pro", cursive;
+  font-size: 0.9615384615rem;
+  color: #27214D;
+  font-weight: 300;
+}
+
+.home-screen-recommended {
+  margin-top: -11rem;
+  text-align: center;
+  margin-left: -8rem;
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 400;
+}
+
+.home-screen-recommended-p {
+  border: 1px solid #FFA451;
+  margin-top: 1rem;
+  text-align: center;
+  margin-left: -16.6rem;
+  width: 3.5714285714rem;
+}
+
+.home-screen-list-plates {
+  margin: 1.5rem 1.5rem 1.5rem 0;
+  margin-left: 10rem;
+  background: linear-gradient(#ffffff, #F7F5F5, #ffffff);
+  text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding: 0.2rem 0;
+  justify-content: center;
+}
+.home-screen-list-plates .recommended-list-li {
+  margin: 0 0.5rem;
+  margin-left: 0.5rem;
+  padding: 0.5rem 0;
+  border: 0.5px 0 0.5rem 0 solid rgba(228, 225, 225, 0.9019607843);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0px 1px 1px rgba(228, 225, 225, 0.9019607843);
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 300;
+}
+.home-screen-list-plates .recommended-list-li :first-child {
+  width: 20px;
+  position: relative;
+  bottom: 8rem;
+  left: 9.5rem;
+}
+.home-screen-list-plates .recommended-list-li :nth-child(2) {
+  padding: 1.2rem;
+  width: 150px;
+  height: 150px;
+}
+.home-screen-list-plates .recommended-list-li p {
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 400;
+}
+.home-screen-list-plates .recommended-list-li .home-screen-ul-li-img {
+  width: 17px;
+  height: 15px;
+  position: relative;
+  bottom: -1.2rem;
+  left: -3.8rem;
+}
+.home-screen-list-plates .recommended-list-li .home-screen-ul-li {
+  color: #FFA451;
+  font-family: "TT Norms pro", cursive;
+  font-weight: 400;
+  margin-left: -3rem;
+}
+.home-screen-list-plates .recommended-list-li .home-screen-ul-li-img-before {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  background: #FFF2E7;
+  bottom: 1.7rem;
+  left: 3.7rem;
+  border: 8px solid #FFF2E7;
+  border-radius: 50%;
+}
+
+.home-screen-recommended-p {
+  display: flex;
+  justify-content: flex-start;
+  border: 1px solid #FFA451;
+  margin-top: 1rem;
+  text-align: center;
+  margin-left: -16.6rem;
+  width: 3.5714285714rem;
+}
+
+ul {
+  margin: 1.5rem 1.5rem 1.5rem 0;
+  margin-left: 10rem;
+  background: linear-gradient(#ffffff 25%, #F7F5F5 80%);
+  text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding: 0rem 1rem 0.2rem 1rem;
+  justify-content: center;
+}
+ul .recommended-list-li {
+  margin: 0 1rem;
+  margin-left: 0.5rem;
+  padding: 0rem 1rem;
+  border: 0.5px 0 0.5rem 0 solid rgba(228, 225, 225, 0.9019607843);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0px 1px 1px rgba(228, 225, 225, 0.9019607843);
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 300;
+}
+ul .recommended-list-li :first-child {
+  width: 20px;
+  position: relative;
+  bottom: 8rem;
+  left: 9.5rem;
+}
+ul .recommended-list-li :nth-child(2) {
+  padding: 1.2rem;
+  width: 150px;
+  height: 150px;
+}
+ul .recommended-list-li p {
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 400;
+}
+ul .recommended-list-li .home-screen-ul-li-img {
+  width: 17px;
+  height: 15px;
+  position: relative;
+  bottom: -1.2rem;
+  left: -3.8rem;
+}
+ul .recommended-list-li .home-screen-ul-li {
+  color: #FFA451;
+  font-family: "TT Norms pro", cursive;
+  font-weight: 400;
+  margin-left: -3rem;
+}
+ul .recommended-list-li .home-screen-ul-li-img-before {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  background: #FFF2E7;
+  bottom: 1.7rem;
+  left: 3.7rem;
+  border: 8px solid #FFF2E7;
+  border-radius: 50%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-screen-list-plates {
+  position: relative;
+  top: 0;
+  font-family: "TT Norms Pro", cursive;
+  color: rgba(199, 202, 238, 0.87);
+  margin-top: -14rem;
+  background: #F7F5F5;
+  font-weight: 200;
+  padding: 3rem 0;
+  background: linear-gradient(#F7F5F5, #ffffff 40%);
+  justify-content: left;
+  width: 491px;
+}
+.home-screen-list-plates :hover[combo] {
+  border-bottom: 2px solid #FFA451;
+  width: 8rem;
+  color: #27214D;
+}
+.home-screen-list-plates :hover {
+  border-bottom: 2px solid #FFA451;
+  width: 4.1666666667rem;
+  color: #27214D;
+}
+.home-screen-list-plates .plates {
+  font-size: 1.3513513514rem;
+  font-weight: 400;
+  margin-left: 2rem;
+  padding-bottom: 0.7rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-list-plates-ul {
+  margin-top: -1.5rem;
+  margin-left: 14rem;
+  background: #ffffff;
+  text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  justify-content: center;
+}
+.home-list-plates-ul .home-list-plates-li[alt] {
+  background: #FFFCF2;
+}
+.home-list-plates-ul .home-list-plates-li[alter] {
+  background: #FEF4F4;
+}
+.home-list-plates-ul .home-list-plates-li[alterer] {
+  background: #F1EFF6;
+}
+.home-list-plates-ul .home-list-plates-li {
+  margin: 0 0.5rem;
+  padding: 1rem 1rem 0 1rem;
+  border: 0.5px 0 0.5rem 0 solid rgba(228, 225, 225, 0.9019607843);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0px 1px 1px rgba(228, 225, 225, 0.9019607843);
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 300;
+}
+.home-list-plates-ul .home-list-plates-li :first-child {
+  width: 3vh;
+  position: relative;
+  bottom: 5rem;
+  left: 7.5rem;
+}
+.home-list-plates-ul .home-list-plates-li :nth-child(2) {
+  padding: 1.2rem;
+  width: 120px;
+  height: 100px;
+}
+.home-list-plates-ul .home-list-plates-li p {
+  font-family: "TT Norms Pro", cursive;
+  color: #27214D;
+  font-weight: 400;
+  margin-left: -0.5rem;
+}
+.home-list-plates-ul .home-list-plates-li .home-screen-ul-li-img {
+  width: 17px;
+  height: 15px;
+  position: relative;
+  bottom: -1.2rem;
+  left: -3rem;
+  margin-right: 1rem;
+}
+.home-list-plates-ul .home-list-plates-li .home-screen-ul-li {
+  color: #FFA451;
+  font-family: "TT Norms pro", cursive;
+  font-weight: 400;
+  margin-left: -1rem;
+}
+.home-list-plates-ul .home-list-plates-li .home-screen-ul-li-img-before {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  background: #FFE3C9;
+  bottom: 1.7rem;
+  left: 3.7rem;
+  border: 8px solid #FFE3C9;
+  border-radius: 50%;
+}
+
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
+#add-basket {
+  background: #FFA451;
+  padding-bottom: 4rem;
+}
+#add-basket .add-basket {
+  border: solid 2px #ffffff;
+  background: #ffffff;
+  border-radius: 40px 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: -5rem;
+  margin-left: -20rem;
+  padding: 0.2rem 0.7rem 0.2rem 0.2rem;
+  font-family: "TT Norms pro", cursive;
+  color: #27214D;
+  font-weight: 300;
+}
+#add-basket .add-basket img {
+  width: 0.8620689655rem;
+  margin: 0.2rem 0.5rem;
+}
+#add-basket .add-basket-plates {
+  justify-content: center;
+  align-self: center;
+  width: 8.5rem;
+  padding-top: 2rem;
+}
+
+#add-basket-results {
+  border-radius: 20px 20px 0 0;
+  background: #ffffff;
+  margin-top: -1rem;
+  flex-direction: column;
+}
+#add-basket-results .add-basket-results-h3 {
+  font-family: "TT Norms pro", cursive;
+  color: #27214D;
+  font-weight: 500;
+  margin-top: -9rem;
+  margin-left: -13rem;
+  font-size: 1.6666666667rem;
+}
+#add-basket-results .add-basket-results-details {
+  margin-top: 2rem;
+  margin-left: -4rem;
+}
+#add-basket-results .add-basket-results-details .results-images-minus {
+  background-color: #FFE3C9;
+  border-radius: 50%;
+  text-align: center;
+  width: 2.0833333333rem;
+  padding: 0.9rem 0.4rem;
+  justify-self: center;
+  display: inline;
+  color: #FFA451;
+  margin-bottom: -0.6rem;
+}
+#add-basket-results .add-basket-results-details .results-images-items {
+  display: inline;
+  margin: 0 1.5rem;
+  font-family: "TT Norms pro", cursive;
+  color: #27214D;
+  font-size: 1.6666666667rem;
+}
+#add-basket-results .add-basket-results-details .results-images-plus {
+  display: inline;
+  width: 1.9230769231rem;
+  margin-bottom: -0.5rem;
+  background-color: #FFE3C9;
+  border-radius: 50%;
+  border: solid 6px #FFE3C9;
+}
+#add-basket-results .add-basket-results-details .results-images-n {
+  width: 1.3157894737rem;
+  margin-left: 7.5rem;
+  margin-right: 0.3rem;
+}
+#add-basket-results .add-basket-results-details .results-details-price {
+  display: inline;
+  font-family: "TT Norms pro", cursive;
+  color: #27214D;
+  font-size: 1.6666666667rem;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#add-basket-list-contains .add-basket-p {
+  border: solid 1px rgba(228, 225, 225, 0.9019607843);
+  margin-top: -12.7rem;
+  width: 22.5rem;
+  margin-left: -3.9rem;
+}
+#add-basket-list-contains .add-basket-contains-h3 {
+  margin: 2rem;
+  font-family: "TT Norms pro", cursive;
+  font-weight: 400;
+  margin-left: -13rem;
+  font-size: 1.25rem;
+}
+#add-basket-list-contains .add-basket-contains-p {
+  border: solid 1px #FFA451;
+  width: 5rem;
+  margin-top: -1rem;
+  margin-left: -22rem;
+}
+#add-basket-list-contains ul {
+  display: flex;
+  flex-wrap: wrap;
+  background: #ffffff;
+  margin-left: -2rem;
+  width: 26.5rem;
+  justify-content: flex-start;
+}
+#add-basket-list-contains ul .add-basket-list-li {
+  margin: 0.3rem;
+  border-radius: 10px 10px;
+  padding: 0.4rem 0.6rem;
+  background: #F7F5F5;
+  font-family: "TT Norms pro", cursive;
+  font-weight: 300;
+  font-size: 0.8333333333rem;
+}
+
+.add-basket-p-before {
+  border: solid 1px rgba(228, 225, 225, 0.9019607843);
+  width: 22.5rem;
+  margin-left: -3.9rem;
+}
+
+.add-basket-list-contains-p {
+  font-family: "TT Norms pro", cursive;
+  font-weight: 200;
+  padding: 1.5rem 1.2rem;
+  margin-left: 10rem;
+  width: 26.5rem;
+  margin-left: -3rem;
+  line-height: 1.5rem;
+}
+
+.add-basket-button-image {
+  margin-top: -10rem;
+  margin-left: -24rem;
+  width: 3.3333333333rem;
+  background-color: #FFF2E7;
+  color: #FFA451;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+
+.add-basket-button {
+  display: inline-block;
+  margin-top: -3.2rem;
+  margin-left: 2rem;
+  padding: 1.1rem 0;
+  background: #FFA451;
+  border: solid 2px #FFA451;
+  border-radius: 13px 13px;
+  width: 18rem;
+  font-size: 1rem;
+  color: #ffffff;
+  font-family: "TT Norms Pro", cursive;
+  font-weight: 400;
+}
+
+@media (min-width: 483px) and (max-width: 939px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #page-welcome .image-welcome {
+    margin-top: -5rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-fruit {
+    width: 200px;
+  }
+  #page-welcome .image-welcome .center {
+    width: 12rem;
+    border: 12px solid #F08626;
+    shape-outside: ellipse(50% 20%);
+    -webkit-clip-path: ellipse(50% 20%);
+            clip-path: ellipse(50% 20%);
+    margin-bottom: 2rem;
+  }
+  #page-welcome-text .page-welcome-h1 {
+    font-size: 1.0416666667rem;
+    align-self: center;
+    margin-left: -1.5rem;
+  }
+  #page-welcome-text .page-welcome-p {
+    font-size: 0.9803921569rem;
+    line-height: 1.5rem;
+    width: 19rem;
+    align-self: center;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 19rem;
+  }
+}
+@media (max-width: 481px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #page-welcome .image-welcome {
+    margin-top: -5rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-fruit {
+    max-width: 200px;
+  }
+  #page-welcome .image-welcome .center {
+    width: 12.5rem;
+    border: 12px solid #F08626;
+    shape-outside: ellipse(50% 20%);
+    -webkit-clip-path: ellipse(50% 20%);
+            clip-path: ellipse(50% 20%);
+    margin-bottom: 2rem;
+  }
+  #page-welcome-text {
+    margin-top: 2rem;
+  }
+  #page-welcome-text .page-welcome-h1 {
+    font-size: 0.8333333333rem;
+    align-self: flex-start;
+  }
+  #page-welcome-text .page-welcome-p {
+    font-size: 0.9803921569rem;
+    line-height: 1.5rem;
+    width: 19rem;
+    align-self: flex-start;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 19rem;
+  }
+}
+@media (max-width: 281px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #page-welcome .image-welcome {
+    margin-top: -8rem;
+  }
+  #page-welcome .image-welcome .image-welcome-fruit {
+    max-width: 2.7777777778rem;
+    position: relative;
+    bottom: 1rem;
+    left: 5rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-fruit {
+    max-width: 150px;
+  }
+  #page-welcome .image-welcome .center {
+    width: 10rem;
+    border: 12px solid #F08626;
+    shape-outside: ellipse(50% 20%);
+    -webkit-clip-path: ellipse(50% 20%);
+            clip-path: ellipse(50% 20%);
+    margin-bottom: 2rem;
+  }
+  #page-welcome-text {
+    margin-top: 2rem;
+  }
+  #page-welcome-text .page-welcome-h1 {
+    font-size: 0.6666666667rem;
+    align-self: flex-start;
+  }
+  #page-welcome-text .page-welcome-p {
+    font-size: 0.625rem;
+    line-height: 1.5rem;
+    width: 12rem;
+    align-self: flex-start;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 12rem;
+    font-size: 1.1904761905rem;
+  }
+}
+@media (min-width: 483px) and (max-width: 939px) {
+  #page-welcome .image-welcome .image-welcome-fruit {
+    width: 2.5rem;
+    position: relative;
+    bottom: 0.1rem;
+    left: 6rem;
+  }
+  #page-welcome .image-welcome .authentication-p-top {
+    margin: -0.7rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: 5.5rem;
+    bottom: -0.7rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-clip-fruit {
+    width: 200px;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-left {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: 4rem;
+    bottom: 2.7rem;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-right {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: -5rem;
+    bottom: 3rem;
+  }
+  #page-welcome-text {
+    margin-top: 0rem;
+    align-items: center;
+  }
+  #page-welcome-text h2 {
+    font-size: 1.1111111111rem;
+  }
+  #page-welcome-text input {
+    width: 19rem;
+    font-size: 1.25rem;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 19rem;
+  }
+}
+@media (max-width: 481px) {
+  #page-welcome .image-welcome .image-welcome-fruit {
+    width: 2.5rem;
+    position: relative;
+    bottom: 0.1rem;
+    left: 6rem;
+  }
+  #page-welcome .image-welcome .authentication-p-top {
+    margin: -0.7rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: 5.5rem;
+    bottom: -0.7rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-clip-fruit {
+    max-width: 200px;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-left {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: 4rem;
+    bottom: 2.7rem;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-right {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(40% 20%);
+            clip-path: ellipse(40% 20%);
+    position: relative;
+    left: -5rem;
+    bottom: 3rem;
+  }
+  #page-welcome-text {
+    margin-top: 0rem;
+    align-items: flex-start;
+  }
+  #page-welcome-text h2 {
+    font-size: 1.1111111111rem;
+  }
+  #page-welcome-text input {
+    width: 19rem;
+    font-size: 1.25rem;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 19rem;
+  }
+}
+@media (max-width: 281px) {
+  #page-welcome .image-welcome .image-welcome-fruit {
+    width: 2.5rem;
+    position: relative;
+    bottom: 0.1rem;
+    left: 6rem;
+  }
+  #page-welcome .image-welcome .authentication-p-top {
+    margin: -0.7rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(30% 15%);
+            clip-path: ellipse(30% 15%);
+    position: relative;
+    left: 4.2rem;
+    bottom: -0.7rem;
+  }
+  #page-welcome .image-welcome .image-welcome-basket-clip-fruit {
+    max-width: 200px;
+  }
+  #page-welcome .image-welcome .center {
+    width: 11.5rem;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-left {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(30% 15%);
+            clip-path: ellipse(30% 15%);
+    position: relative;
+    left: 3rem;
+    bottom: 2.7rem;
+  }
+  #page-welcome .image-welcome .authentication-p-bottom-right {
+    margin: -0.6rem;
+    border: 12px solid #F08626;
+    -webkit-clip-path: ellipse(30% 15%);
+            clip-path: ellipse(30% 15%);
+    position: relative;
+    left: -3.5rem;
+    bottom: 3rem;
+  }
+  #page-welcome-text {
+    margin-top: -1rem;
+    align-items: center;
+  }
+  #page-welcome-text h2 {
+    font-size: 0.8333333333rem;
+  }
+  #page-welcome-text input {
+    width: 14rem;
+    margin-bottom: -0.5rem;
+    font-size: 1.1111111111rem;
+  }
+  #page-welcome-text .page-welcome-button {
+    width: 14rem;
+  }
+}
+@media (max-width: 481px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  body #home-screen-one {
+    margin-top: -8rem;
+    margin-left: -3rem;
+  }
+  body #home-screen-list .home-screen-list {
+    align-self: flex-start;
+    margin-left: 1rem;
+  }
+  body #home-screen-recommended .recommended-list-ul {
+    margin-left: 5rem;
+  }
+  body .recommended-list-li :first-child {
+    width: 20px;
+    position: relative;
+    bottom: -2rem;
+    left: 4rem;
+  }
+  .home-list-plates-li :first-child {
+    width: 20px;
+    display: block;
+    position: relative;
+    top: 0rem;
+    left: -4rem;
+  }
+}/*# sourceMappingURL=style.css.map */

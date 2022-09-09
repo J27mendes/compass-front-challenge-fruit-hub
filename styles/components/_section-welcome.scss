@@ -1,0 +1,73 @@
+@import '../abstracts/variaveis';
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro?styles=70918,70920,70909');
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#page-welcome{
+    background: $color-one;
+    div{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        background: $color-one;
+        align-items: center;
+        .image-welcome-fruit {
+            width: calc($sizes / 1.4);
+            position: relative;
+            bottom: 1rem;
+            left: 7rem;
+        }
+        .image-welcome-basket-fruit{
+            width: 40vh;            
+        }
+        .center {
+            width: calc($sizes * 3.6);
+            margin-top: 0%;
+            border: 12px solid $color-four;
+            shape-outside: ellipse(50% 25%);
+            clip-path: ellipse(50% 25%);
+            margin-bottom: 2rem;
+        }
+    }
+}
+
+#page-welcome-text {
+    margin: 0%;
+    padding: calc($sizes / 1.8);
+    background: $color-two;
+    h1 {
+        font-family: 'TT Norms Pro', cursive;
+        margin: 0%;
+        padding-bottom: calc($sizes / 4);
+        color: $color-three;
+    }
+    .page-welcome-p {
+        font-family: 'TT Norms Pro', cursive;
+        color: $color-three;
+        font-size: calc($sizes / 4);
+        font-weight: 300;
+    }
+    button {
+        margin-top: 3rem;
+        padding: 1.1rem 0;
+        background: $color-one;
+        border: solid 2px $color-one;
+        border-radius: 13px 13px;
+        width: calc($sizes * 4.2);
+        
+        a {
+            font-size: calc($sizes / 5);
+            text-decoration: none;
+            background: $color-one;
+            color: $color-two;
+            font-family: 'TT Norms Pro', cursive;
+            font-weight: 250;
+
+        }
+        
+    }
+
+}
